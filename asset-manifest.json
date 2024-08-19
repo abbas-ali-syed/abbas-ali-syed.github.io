@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abbas-ali-syed/abbas-ali-syed.github.io/static/css/main.d13621fd.css",
+    "main.js": "/abbas-ali-syed/abbas-ali-syed.github.io/static/js/main.af61bb48.js",
+    "static/media/Abbas1.pdf": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/Abbas1.455dd3be60809d479586.pdf",
+    "static/media/workImg.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/workImg.049abb1ee2a6f844a636.png",
+    "static/media/react.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/tensorflow.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/tensorflow.ebcbfcbcc61cc075eb1d.png",
+    "static/media/html.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/abbas-ali-syed/abbas-ali-syed.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/abbas-ali-syed/abbas-ali-syed.github.io/index.html",
+    "main.d13621fd.css.map": "/abbas-ali-syed/abbas-ali-syed.github.io/static/css/main.d13621fd.css.map",
+    "main.af61bb48.js.map": "/abbas-ali-syed/abbas-ali-syed.github.io/static/js/main.af61bb48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d13621fd.css",
+    "static/js/main.af61bb48.js"
+  ]
+}
